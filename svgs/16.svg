@@ -1,0 +1,19 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;" stroke="null">
+
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="#b9d8c2" id="canvas_background" height="602" width="602" y="-1" x="-1"/>
+  <g style="vector-effect: non-scaling-stroke;" stroke="null" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect stroke="null" fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <ellipse id="svg_27" cy="235.4375" cx="888.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#fca311"/>
+  <ellipse id="svg_47" cy="156.4375" cx="981.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#5050c9"/>
+  <ellipse id="svg_68" cy="141.596506" cx="331.66681" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ff101f"/>
+  <path id="svg_70" d="m-480.559085,133.818693" opacity="0.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ff101f"/>
+  <path id="svg_72" d="m-395.020446,41.731896l0.745,-1.30375l0.745,1.30375l-1.49,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#fca311"/>
+  <path id="svg_73" d="m84.720812,488.369275l215.279186,-376.738576l215.279186,376.738576l-430.558373,0z" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#e06d73"/>
+ </g>
+</svg>
